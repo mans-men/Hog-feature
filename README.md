@@ -1,5 +1,6 @@
 # Hog-feature
 HOG feature extractor with simple python implementation
+
 this ia a practis project for you to understand the process of HOG 
 
 # Running
